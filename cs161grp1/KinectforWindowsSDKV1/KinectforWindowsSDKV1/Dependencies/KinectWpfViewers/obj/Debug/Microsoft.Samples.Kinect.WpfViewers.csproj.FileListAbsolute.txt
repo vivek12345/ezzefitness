@@ -1,0 +1,12 @@
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\ResolveAssemblyReference.cache
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\KinectSettings.baml
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\KinectSensorChooser.g.cs
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\KinectAudioViewer.g.cs
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\KinectDepthViewer.g.cs
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\KinectColorViewer.g.cs
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\KinectDiagnosticViewer.g.cs
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\KinectSettings.g.cs
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\KinectSkeletonViewer.g.cs
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.cache
+D:\kinect3d\be project\virual sifuwc\cs161grp1\KinectforWindowsSDKV1\KinectforWindowsSDKV1\Dependencies\KinectWpfViewers\obj\Debug\Microsoft.Samples.Kinect.WpfViewers_MarkupCompile.lref

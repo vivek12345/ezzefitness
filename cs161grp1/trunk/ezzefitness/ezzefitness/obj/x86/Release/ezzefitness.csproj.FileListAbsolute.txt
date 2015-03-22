@@ -1,0 +1,3 @@
+D:\kinect3d\be project\ezzefitness\cs161grp1\trunk\ezzefitness\ezzefitness\obj\x86\Release\ResolveAssemblyReference.cache
+D:\kinect3d\be project\ezzefitness\cs161grp1\trunk\ezzefitness\ezzefitness\obj\x86\Release\App.g.cs
+D:\kinect3d\be project\ezzefitness\cs161grp1\trunk\ezzefitness\ezzefitness\obj\x86\Release\VirtualSifu_MarkupCompile.cache
